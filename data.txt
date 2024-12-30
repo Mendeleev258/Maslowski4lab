@@ -1,0 +1,220 @@
+Pavel Durov
+Male
+40
+Saint-Petersburg, Kamyshovaya st., 28
++78005553535
+Management
+CEO
+20
+500000
+========================
+Ivan Astapov
+Male
+21
+Voronezh, Oleko Dundicha st., 3
++79525541322
+IT
+Software engineer
+3
+120000
+========================
+Gilda Woszinska
+Female
+79
+Warzsawa, Bobra st., 14
++488304517778
+IT
+Team lead
+50
+200000
+========================
+Anna Ivanova
+Female
+35
+Moscow, Tverskaya st., 12
++74951234567
+Marketing
+Manager
+10
+80000
+========================
+Igor Petrov
+Male
+30
+Novosibirsk, Lenina st., 5
++73831234567
+IT
+Developer
+8
+90000
+========================
+Olga Sokolova
+Female
+28
+Yekaterinburg, Malysheva st., 3
++73431234567
+HR
+Recruiter
+5
+70000
+========================
+Dmitry Smirnov
+Male
+65
+Kazan, Bauman st., 15
++78432123456
+Finance
+CFO
+35
+1200000
+========================
+Maria Fedorova
+Female
+32
+Nizhny Novgorod, Gorkogo st., 10
++78312345678
+Sales
+Sales Manager
+7
+60000
+========================
+Vladimir Nikiforov
+Male
+50
+Chelyabinsk, Truda st., 22
++73512345678
+Production
+Director
+30
+1500000
+========================
+Elena Kuznetsova
+Female
+29
+Samara, Leningradskaya st., 33
++78412345678
+IT
+Analyst
+6
+75000
+========================
+Sergey Mikhailov
+Male
+38
+Ufa, Pushkina st., 44
++73471234567
+Marketing
+Senior Manager
+12
+95000
+========================
+Natalia Stepanova
+Female
+41
+Voronezh, Sovetskaya st., 9
++74732234567
+Logistics
+Logistics Manager
+15
+85000
+========================
+Andrey Vasilyev
+Male
+36
+Rostov-on-Don, Sholokhova st., 18
++78612345678
+Finance
+Accountant
+9
+70000
+========================
+Tatiana Orlova
+Female
+27
+Krasnoyarsk, Mira st., 1
++73912123456
+HR
+HR Specialist
+4
+55000
+========================
+Oleg Grigoriev
+Male
+42
+Tula, Komsomolskaya st., 20
++74812345678
+Sales
+Sales Director
+22
+1100000
+========================
+Irina Volkova
+Female
+34
+Kaliningrad, Leninskaya st., 11
++74951234568
+IT
+Project Manager
+11
+95000
+========================
+Alexey Ivanov
+Male
+39
+Vladivostok, Svetlanskaya st., 45
++74231234567
+Production
+Engineer
+14
+80000
+========================
+Svetlana Pavlova
+Female
+31
+Ulyanovsk, Kirova st., 3
++78412345679
+Marketing
+Brand Manager
+8
+72000
+========================
+Yuri Semyonov
+Male
+48
+Tyumen, Tsvetnoy Blvd., 8
++73821234567
+Finance
+Financial Analyst
+26
+1300000
+========================
+Daria Morozova
+Female
+29
+Khabarovsk, Amurskaya st., 16
++74261234567
+Logistics
+Supply Chain Specialist
+5
+60000
+========================
+Maxim Belov
+Male
+37
+Irkutsk, Baikalskaya st., 4
++73952234567
+IT
+Software Architect
+15
+100000
+========================
+Mihkaylo Ostapchuk
+Male
+42
+Kyiv, Khmelnitskogo st., 30/2
++3807652231254
+IT
+Software engineer
+10
+100000
+========================
